@@ -10,4 +10,6 @@ wheels/
 data
 .venv
 Check_Ups
+.env
+
 
